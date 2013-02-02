@@ -1,0 +1,64 @@
+/*=======================================================================
+
+	❤❤❤ Gumby by Digital Surgeons. ❤❤❤
+	
+	*** This is where you should keep all of your design specific styles ***
+ 
+ ========================================================================*/
+
+
+body {
+
+
+	background-image: url(http://lorempixel.com/1500/1500);
+
+}
+
+
+#center_row {
+
+margin-left: auto;
+margin-right: auto;
+display: block;
+float: center;
+}
+
+
+#fashion_six {
+
+	padding: 20px;
+	background-color: #000;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+
+}
+
+
+#fashion_logo {
+
+	margin: auto;
+}
+
+
+.fashion_spacer {
+
+	height: 20px;
+
+
+}
+
+
+#fashion_button {
+	width: 100%;
+	margin-top: 30px;
+	float: center;
+
+}
+
+
+
+

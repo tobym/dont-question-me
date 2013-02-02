@@ -1,0 +1,80 @@
+/*=======================================================================
+
+	❤❤❤ Gumby by Digital Surgeons. ❤❤❤
+	
+	*** This is where you should keep all of your TEXT styles ***
+ 
+ ========================================================================*/
+ 
+ 	
+
+ 
+ 
+ 
+ h1 {
+
+ 	font-family: 'Abril Fatface', cursive;
+	color: #e34b2f;
+	font-size: 60px;
+	line-height: 1;
+
+}
+ 
+ 
+ 
+ 
+ h2 {
+ 	line-height: 1.2;
+ 	color: #fff;
+ 	font-size: 25px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* ==|== media queries ======================================================
+    PLACEHOLDER Media Queries for Responsive Design.
+    These override the primary ('mobile first') styles
+    Modify as content requires.
+    ========================================================================== */
+ 
+ @media only screen and (min-width: 480px) {
+   /* Style adjustments for viewports 480px and over go here */
+
+    h1 {
+
+ 	font-family: 'Abril Fatface', cursive;
+	color: #e34b2f;
+	font-size: 60px;
+	line-height: 1;
+
+}
+ 
+ }
+ 
+ @media only screen and (min-width: 768px) {
+   /* Style adjustments for viewports 768px and over go here */
+
+
+       h1 {
+
+ 	font-family: 'Abril Fatface', cursive;
+	color: #e34b2f;
+	font-size: 100px;
+	line-height: 1;
+
+}
+ 
+ }
