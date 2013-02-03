@@ -59,6 +59,18 @@ h6 {
  	font-family: 'Open Sans Condensed', sans-serif;
  	text-align: right;
  	margin-right: 20px;
+ 	font-weight: 300;
+ }
+ 
+
+   h4 {
+ 	line-height: 1.2;
+ 	color: #fff;
+ 	font-size: 22px;
+ 	font-family: 'Open Sans Condensed', sans-serif;
+ 	text-align: right;
+ 	margin-right: 20px;
+ 	font-weight: 300;
  }
  
  
