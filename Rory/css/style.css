@@ -10,7 +10,7 @@
 body {
 
 
-	background-image: url(http://lorempixel.com/1500/1500);
+	background-image: url(../img/bg.jpg);
 
 }
 
@@ -57,6 +57,10 @@ float: center;
 	margin-top: 30px;
 	float: center;
 
+}
+
+#fashion_footer {
+	height: 50px;
 }
 
 

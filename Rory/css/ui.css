@@ -593,6 +593,7 @@
 	form .field {
 		position: relative;
 		margin-bottom: 10px;
+
 	}
 	
 	form dt {
@@ -611,6 +612,7 @@
 		margin: 0;
 		outline: none;
 		resize: none;
+		
 	}
 
 	form textarea {
